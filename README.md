@@ -9,7 +9,7 @@ Algorithms: KNN, Decision Tree, Support Vector Machine and Logistic Regression.
 
 "In the case of totals betting in football and basketball, the breakeven point is 52.4 percent..." [[1]](#1). Thus, above 57% can be consider as a good accuracy or being profitable, even with a conservative look, because 4.6% above break-even is acting as a buffer.
 
-Concluding, profitability is expected if the built models are used.
+Concluding, profitability is expected if the models built are used.
 
 Lastly, classification models accuracy are as following:
 
