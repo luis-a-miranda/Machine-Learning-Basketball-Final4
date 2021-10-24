@@ -1,5 +1,5 @@
 # Machine Learning Basketball Final4
-My goal is to predict which basketball teams are most likely to make it to the semifinals of a College Basketball Tournament.
+The goal of this project is to classify and predict which basketball teams are most likely to make it to the semifinals of a College Basketball Tournament.
 
 Algorithms: KNN, Decision Tree, Support Vector Machine and Logistic Regression.
 
