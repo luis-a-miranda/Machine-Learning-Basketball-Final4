@@ -9,12 +9,12 @@ Algorithms: KNN, Decision Tree, Support Vector Machine and Logistic Regression.
 
 In sports betting, an accuracy of 55% or above is considered very good as it indicates profits on conservative betting strategies. Therefore, the models built have a good scores. Classification models accuracy are as following:
 
-| Algorithm          | Accuracy | F1-score | Jaccard  | LogLoss |
-| ------------------ | -------- | -------- | -------- | ------- |
-| KNN                | 0.628571 | 0.628571 | 0.458333 | NA      |
-| Decision Tree      | 0.657143 | 0.657143 | 0.489362 | NA      |
-| SVM                | 0.571429 | 0.571429 | 0.400000 | NA      |
-| LogisticRegression | 0.685714 | 0.685714 | 0.521739 | 1.03719 |
+| Algorithm           | Accuracy | F1-score | Jaccard  | LogLoss |
+| ------------------  | -------- | -------- | -------- | ------- |
+| KNN                 | 0.628571 | 0.628571 | 0.458333 | NA      |
+| Decision Tree       | 0.657143 | 0.657143 | 0.489362 | NA      |
+| SVM                 | 0.571429 | 0.571429 | 0.400000 | NA      |
+| Logistic Regression | 0.685714 | 0.685714 | 0.521739 | 1.03719 |
 
 
 
