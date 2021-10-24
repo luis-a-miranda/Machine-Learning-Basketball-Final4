@@ -1,4 +1,4 @@
-# Machine Learning - 2016 College Basketball (NCCA) Final Four 
+# Machine Learning - College Basketball (NCCA) Final Four 
 The goal of this project is to classify and predict which basketball teams are most likely to make it to the semifinals of a College Basketball Tournament.
 
 Algorithms: KNN, Decision Tree, Support Vector Machine and Logistic Regression.
@@ -7,9 +7,11 @@ Algorithms: KNN, Decision Tree, Support Vector Machine and Logistic Regression.
 
 ## Conclusion
 
-"In the case of totals betting in football and basketball, the breakeven point is 52.4 percent..." [[1]](#1). Therefore a 55% or above is considered very good as it indicates profits on conservative betting strategies.
+"In the case of totals betting in football and basketball, the breakeven point is 52.4 percent..." [[1]](#1). Thus, above 57% can be consider as a good accuracy or being profitable, even with a conservative look, because 4.6% above break-even is acting as a buffer.
 
-Classification models accuracy are as following:
+Concluding, profitability is expected if the built models are used.
+
+Lastly, classification models accuracy are as following:
 
 | Algorithm           | Accuracy | F1-score | Jaccard  | LogLoss |
 | ------------------  | -------- | -------- | -------- | ------- |
