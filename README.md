@@ -7,7 +7,9 @@ Algorithms: KNN, Decision Tree, Support Vector Machine and Logistic Regression.
 
 ## Conclusion
 
-In sports betting, an accuracy of 55% or above is considered very good as it indicates profits on conservative betting strategies. Therefore, the models built have a good scores. Classification models accuracy are as following:
+"In the case of totals betting in football and basketball, the breakeven point is 52.4 percent..." [[1]](#1). Therefore a 55% or above is considered very good as it indicates profits on conservative betting strategies.
+
+Classification models accuracy are as following:
 
 | Algorithm           | Accuracy | F1-score | Jaccard  | LogLoss |
 | ------------------  | -------- | -------- | -------- | ------- |
@@ -16,5 +18,8 @@ In sports betting, an accuracy of 55% or above is considered very good as it ind
 | SVM                 | 0.571429 | 0.571429 | 0.400000 | NA      |
 | Logistic Regression | 0.685714 | 0.685714 | 0.521739 | 1.03719 |
 
-
-
+## References
+<a id="1">[1]</a> 
+Paul, R. J., and Weinbach, A. P. (2005). 
+Bettor misperceptions in the NBA: The overbetting of large favorites and the “hot hand”. 
+*Journal of Sports Economics*, 6(4), 390-400. 
