@@ -1,4 +1,4 @@
-# Machine Learning - 2016 NCCA College Basketball Final Four 
+# Machine Learning - 2016 College Basketball (NCCA) Final Four 
 The goal of this project is to classify and predict which basketball teams are most likely to make it to the semifinals of a College Basketball Tournament.
 
 Algorithms: KNN, Decision Tree, Support Vector Machine and Logistic Regression.
