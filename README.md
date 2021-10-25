@@ -5,7 +5,7 @@ Algorithms: KNN, Decision Tree, Support Vector Machine and Logistic Regression.
 
 [Dataset URL](https://s3-api.us-geo.objectstorage.softlayer.net/cf-courses-data/CognitiveClass/ML0120ENv3/Dataset/ML0101EN_EDX_skill_up/cbb.csv) obtained while enrolled on [Professional Certificate in IBM Data Science](https://www.edx.org/professional-certificate/ibm-data-science?index=product&queryID=f71f23095d28d770b5032557f7806f50&position=1).
 
-## Conclusion
+## Results
 
 "In the case of totals betting in football and basketball, the breakeven point is 52.4 percent..." [[1]](#1). Thus, above 57% can be consider as a good accuracy or being profitable, even with a conservative look, because 4.6% above break-even is acting as a buffer.
 
