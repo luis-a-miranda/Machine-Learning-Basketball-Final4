@@ -1,7 +1,9 @@
 # Machine Learning - College Basketball (NCCA) Final Four 
-The goal of this project is to classify and predict which basketball teams are most likely to make it to the semifinals of a College Basketball Tournament.
+Analyze and predict the teams that are likely to reach the semifinals of the College Basketball Tournament (NCAA) using machine learning algorithms.
 
-Algorithms: KNN, Decision Tree, Support Vector Machine and Logistic Regression.
+## Key Features
+1. Algorithm Selection: The project utilizes K-Nearest Neighbors (KNN), Decision Tree, Support Vector Machine (SVM), and Logistic Regression algorithms.
+2. Accuracy Evaluation: The classification models' accuracy, F1-score, Jaccard index, and LogLoss are evaluated to determine their effectiveness in predicting the Final Four teams.
 
 Dataset: [NCCA_db](https://s3-api.us-geo.objectstorage.softlayer.net/cf-courses-data/CognitiveClass/ML0120ENv3/Dataset/ML0101EN_EDX_skill_up/cbb.csv).
 
@@ -9,9 +11,9 @@ Dataset: [NCCA_db](https://s3-api.us-geo.objectstorage.softlayer.net/cf-courses-
 
 "In the case of totals betting in football and basketball, the breakeven point is 52.4 percent..." [[1]](#1). Thus, above 57% can be consider as a good accuracy or being profitable, even with a conservative look, because 4.6% above break-even is acting as a buffer.
 
-Concluding, profitability is expected if the models are used.
+Based on the results, utilizing the classification models is expected to provide profitable insights for predicting the Final Four teams in the College Basketball Tournament.
 
-Lastly, classification models accuracy are as following:
+Lastly, The classification models' accuracy scores are as follows:
 
 | Algorithm           | Accuracy | F1-score | Jaccard  | LogLoss |
 | ------------------  | -------- | -------- | -------- | ------- |
