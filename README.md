@@ -13,7 +13,7 @@ Dataset: [NCCA_db](https://s3-api.us-geo.objectstorage.softlayer.net/cf-courses-
 
 Based on the results, utilizing the classification models is expected to provide profitable insights for predicting the Final Four teams in the College Basketball Tournament.
 
-Lastly, The classification models' accuracy scores are as follows:
+The classification models' accuracy scores are as follows:
 
 | Algorithm           | Accuracy | F1-score | Jaccard  | LogLoss |
 | ------------------  | -------- | -------- | -------- | ------- |
